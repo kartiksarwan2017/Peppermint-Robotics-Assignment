@@ -1,0 +1,20 @@
+.job-listings{
+    margin-top: 30px;
+}
+
+.job-listings .header h1, h2, p{
+    text-align: center;
+}
+
+.job-listings .header h1, h2{
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.job-listings h2{
+    margin-top: 40px;
+}
+
+.job-listings .header p {
+    font-size: 20px;
+}

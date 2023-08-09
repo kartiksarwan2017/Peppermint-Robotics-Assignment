@@ -4,7 +4,31 @@
     justify-content: space-evenly;
     max-width: 1200px;
     gap: 30px;
+    margin: 70px 0 70px 70px;
 
+}
+
+.card-title {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.jobs-list-card .apply-button,
+.jobs-list-card .job-description-button{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: blueviolet;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+
+.jobs-list-card .apply-button:hover,
+.jobs-list-card .job-description-button:hover{
+    background-color: rgb(138, 202, 41);
 }
 
 .jobs-list-card{

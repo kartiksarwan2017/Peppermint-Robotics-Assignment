@@ -1,3 +1,4 @@
+import "./JobsOpenings.css";
 import React from "react";
 import JobListing from "../JobListing/JobListing";
 

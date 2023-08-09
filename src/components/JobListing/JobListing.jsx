@@ -13,9 +13,9 @@ const JobListing = () => {
               <Card className="jobs-list-card">
                 <Card.Img variant="top" src={job.jobImgUrl} className="card-img" />
                 <Card.Body>
-                  <Card.Title>{job.jobTitle}</Card.Title>
-                  <Card.Text>{job.jobDescription}</Card.Text>
+                  <Card.Title className="card-title">{job.jobTitle}</Card.Title>
                   <button className="apply-button">Apply Now</button>
+                  <button className="job-description-button">Job Description</button>
                 </Card.Body>
               </Card>
             </>
