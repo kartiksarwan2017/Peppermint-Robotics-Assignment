@@ -5,7 +5,12 @@
     display: flex;
     justify-content: space-between;
     padding: 25px 50px 10px 150px;
-   
+
+}
+
+.navbar-header h1{
+    position: relative;
+    bottom: 55px;
 }
 
 .navbar {
