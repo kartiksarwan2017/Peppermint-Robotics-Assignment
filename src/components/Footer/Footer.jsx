@@ -4,6 +4,19 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaYoutube } from 'react
 import './Footer.css'; // Update this CSS file for styling
 
 function Footer() {
+
+  const quickLinks = [
+    { title: 'Home', link: '#' },
+    { title: 'FAQs', link: '#' },
+    { title: 'Case Studies', link: '#' },
+    { title: 'Products', link: '#' },
+    { title: 'blogs', link: '#' },
+  ];
+
+  const recentPosts = [
+    { title: 'Elevating Efficiency', link: '#' },
+    { title: 'Autonomous Mobile Robots', link: '#' }
+  ];
   return (
     <footer className="footer">
       <div className="footer-content">
@@ -16,6 +29,28 @@ function Footer() {
             <p>Email: info@example.com</p>
             <p>Phone: +1 123-456-7890</p>
             <p>Address: 123 Street, City, Country</p>
+          </div>
+        </div>
+        <div className="footer-links">
+          <div className="quick-links">
+            <h3>Quick Links</h3>
+            <ul>
+              {quickLinks.map((link, index) => (
+                <li key={index}>
+                  <a href={link.link}>{link.title}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div className="recent-posts">
+            <h3>Recent Posts</h3>
+            <ul>
+              {recentPosts.map((post, index) => (
+                <li key={index}>
+                  <a href={post.link}>{post.title}</a>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
         <div className="social-icons">
