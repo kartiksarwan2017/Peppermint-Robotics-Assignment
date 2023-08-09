@@ -1,0 +1,70 @@
+/* styles/Footer.css */
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-details {
+    display: flex;
+
+  }
+  
+  .logo img {
+    position: relative;
+    bottom: 20px;
+    width: 180px;
+    height: 180px;
+  }
+  
+  .contact-info {
+    margin-left: 40px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+  }
+  
+  .social-icons {
+    position: relative;
+    bottom: 30px;
+    right: 100px;
+  }
+  
+  .icon {
+    font-size: 24px;
+    margin: 0 10px;
+    color: white;
+  }
+
+  .fb-icon{
+    color: rgb(56, 56, 250);
+  }
+
+  .twitter-icon{
+    color: aqua;
+  }
+
+  .insta-icon{
+    color: orangered;
+  }
+
+  .yt-icon{
+    color: red;
+  }
+
+  .linkedin-icon{
+    color: rgb(30, 135, 233)
+  }
+
+  
+  .icon-list {
+    display: inline-block;
+  }
+  

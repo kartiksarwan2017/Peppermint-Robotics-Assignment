@@ -5,12 +5,14 @@
     max-width: 1200px;
     gap: 30px;
     margin: 70px 0 70px 70px;
+    text-align: center;
 
 }
 
 .card-title {
     font-size: 25px;
     font-weight: 400;
+ 
 }
 
 .jobs-list-card .apply-button,
