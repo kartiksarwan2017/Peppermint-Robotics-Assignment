@@ -1,5 +1,6 @@
 import "./JobListing.css";
 import React from "react";
+import { Link } from "react-router-dom";
 import Card from "react-bootstrap/Card";
 import jobListings from "../../jobslist.json";
 
@@ -15,7 +16,11 @@ const JobListing = () => {
                 <Card.Body>
                   <Card.Title className="card-title">{job.jobTitle}</Card.Title>
                   <button className="apply-button">Apply Now</button>
-                  <button className="job-description-button">Job Description</button>
+                  <button className="job-description-button" >
+                    <Link to={`/job-description/${job.jobId}`}>
+                      Job Description
+                    </Link>
+                  </button>
                 </Card.Body>
               </Card>
             </>

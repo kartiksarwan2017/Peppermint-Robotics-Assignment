@@ -26,9 +26,9 @@ function Footer() {
           </div>
           <div className="contact-info">
             <h3>Contact Us</h3>
-            <p>Email: info@example.com</p>
-            <p>Phone: +1 123-456-7890</p>
-            <p>Address: 123 Street, City, Country</p>
+            <p>Email: info@getpeppermint.co</p>
+            <p>Phone: +91 89567 10044</p>
+            <p>Address: Survey No 116, 3/1, <br />opp. ShubhTej Mangal Karyalay, <br />near Balaji Chowk, Jai Bhavani Nagar,<br /> Pashan, Pune, Maharashtra 411021</p>
           </div>
         </div>
         <div className="footer-links">

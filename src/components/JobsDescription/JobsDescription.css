@@ -1,0 +1,44 @@
+/* JobsDescription.css */
+
+/* Style for the container that holds the job description */
+.jobs-description-container {
+    padding: 20px;
+    background-color: #f7f7f7;
+  }
+  
+  /* Style for the card that displays job details */
+  .specific-job-details {
+    max-width: 30rem;
+    margin: 20px auto;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for the "Apply Now" button */
+  .apply-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  /* Style for the list of qualifications and responsibilities */
+  .list-group-flush h5 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .list-group-flush ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .list-group-flush ul li {
+    margin-bottom: 5px;
+  }
+  

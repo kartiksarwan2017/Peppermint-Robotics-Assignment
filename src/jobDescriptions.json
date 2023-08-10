@@ -1,0 +1,137 @@
+[
+  {
+    "jobId": "1",
+    "jobTitle": "Software Engineer",
+    "description": "We're seeking a talented Software Engineer...",
+    "responsibilities": [
+      "Collaborate with cross-functional teams...",
+      "Design, code, test, and debug software applications..."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Engineering, or related field.",
+      "Proven experience in software development..."
+    ],
+    "benefits": "We offer competitive compensation packages...",
+    "imgUrl": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=2000"
+  },
+  {
+    "jobId": "2",
+    "jobTitle": "Product Designer",
+    "description": "Are you passionate about creating intuitive...",
+    "responsibilities": [
+      "Collaborate with the design and development teams...",
+      "Create user-centered design solutions..."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Design, UX/UI, or related field.",
+      "Strong portfolio demonstrating design skills..."
+    ],
+    "benefits": "Join a creative and collaborative environment...",
+    "imgUrl": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=2000"
+  },
+  {
+    "jobId": "3",
+    "jobTitle": "Junior Web Developer",
+    "description": "Join our software development team as a Junior Web Developer...",
+    "responsibilities": [
+      "Contribute to web development projects...",
+      "Work on both frontend and backend tasks..."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Engineering, or related field.",
+      "Familiarity with web technologies..."
+    ],
+    "benefits": "Opportunity to learn and grow in a supportive environment...",
+    "imgUrl": "https://cdn.merixstudio.com/media/uploads/learning_programming.png"
+  },
+  {
+    "jobId": "4",
+    "jobTitle": "PHP Developer",
+    "description": "Shape the user experience of our products as a PHP Developer...",
+    "responsibilities": [
+      "Build and maintain dynamic web applications...",
+      "Collaborate with backend and frontend teams..."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Engineering, or related field.",
+      "Proven experience in PHP development..."
+    ],
+    "benefits": "Join a team of dedicated developers and contribute to technical excellence...",
+    "imgUrl": "https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-our-PHP-Developers.png"
+  },
+  {
+    "jobId": "5",
+    "jobTitle": "Data Analyst",
+    "description": "Join our software development team as a Data Analyst...",
+    "responsibilities": [
+      "Analyze data to generate insights...",
+      "Present findings to drive business strategies..."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Data Science, Statistics, or related field.",
+      "Experience with data analysis tools..."
+    ],
+    "benefits": "Contribute to data-driven decision making and product improvement...",
+    "imgUrl": "https://images.datacamp.com/image/upload/v1652357545/shutterstock_1770654182_d43667c1bc.jpg"
+  },
+  {
+    "jobId": "6",
+    "jobTitle": "Data Scientist",
+    "description": "Shape the user experience of our products as a Data Scientist...",
+    "responsibilities": [
+      "Work on advanced analytics and predictive modeling...",
+      "Provide insights to guide product development..."
+    ],
+    "qualifications": [
+      "Master's or Ph.D. in Data Science, Computer Science, or related field.",
+      "Experience with machine learning and data analysis..."
+    ],
+    "benefits": "Drive product enhancement through data-driven insights...",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Djin05IA9uykUYLU3IoyVRoB9NQ9LZJwvg&usqp=CAU"
+  },
+  {
+    "jobId": "7",
+    "jobTitle": "Full Stack Web Developer",
+    "description": "Join our software development team as a Full Stack Web Developer...",
+    "responsibilities": [
+      "Work on both frontend and backend development...",
+      "Collaborate with designers and backend developers..."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Engineering, or related field.",
+      "Experience with frontend and backend technologies..."
+    ],
+    "benefits": "Contribute to feature-rich web applications in a collaborative environment...",
+    "imgUrl": "https://www.revenueriver.co/hubfs/fullstack.jpeg"
+  },
+  {
+    "jobId": "8",
+    "jobTitle": "Senior Developer",
+    "description": "As a Senior Developer, you'll be a key player in shaping the user experience...",
+    "responsibilities": [
+      "Mentor junior developers...",
+      "Lead technical design discussions..."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Engineering, or related field.",
+      "Extensive experience in software development..."
+    ],
+    "benefits": "Join a team of experienced developers and contribute to technical excellence...",
+    "imgUrl": "https://tsh.io/wp-content/uploads/2021/04/senior-developer.png"
+  },
+  {
+    "jobId": "9",
+    "jobTitle": "Product Designer",
+    "description": "Shape the user experience of our products as a Product Designer...",
+    "responsibilities": [
+      "Collaborate with cross-functional teams...",
+      "Create innovative and user-friendly designs..."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Design, UX/UI, or related field.",
+      "Strong portfolio demonstrating design skills..."
+    ],
+    "benefits": "Drive the visual identity of our products in a creative and collaborative environment...",
+    "imgUrl": "https://media.web.userguiding.com/uploads/2021/02/22061329/product-design-tools.jpg"
+  }
+]
